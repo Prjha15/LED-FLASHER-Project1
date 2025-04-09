@@ -33,4 +33,5 @@ Steps involved:
 #capacitor will discharge through R1.
 
 𝑇(HIGH)=0.693*(𝑅1+𝑅2)*C
+
 T(LOW)=0.693*R1*C
