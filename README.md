@@ -1,7 +1,11 @@
 DESCRIPTION
+
+
 This project demonstrates how to build a simple LED flasher circuit using the popular 555 timer IC in astable mode. The 555 timer generates a square wave output that turns the LED ON and OFF periodically, creating a blinking effect. This is a basic electronics project ideal for beginners learning about timers, waveform generation, and simple circuit design.
 
 Features:
+
+
 1.Blinks an LED at a steady rate.
 
 2.Uses 555 timer in astable mode.
@@ -11,6 +15,8 @@ Features:
 4.Low-cost and easy to build.
 
 Components required:
+
+
 1.555 Timer IC
 2.Resistors
 3.Capacitor
@@ -19,9 +25,13 @@ Components required:
 6.Power Supply
 
 Circuit Explanation:
+
+
 The 555 timer is working in astable mode.Two resistors and one capacitor are used in this circuit.
 
 Steps involved:
+
+
 1.Put the 555 timer on breadboard.
 2.Connect pin 8 to Vcc and pin 1 to ground.
 3.Short circuit pin 2 and pin 6.
