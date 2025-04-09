@@ -19,7 +19,7 @@ Components required:
 6.Power Supply
 
 Circuit Explanation:
-The 555 timer is working in astable mode.Two resistors and one capacitor is used in this circuit.
+The 555 timer is working in astable mode.Two resistors and one capacitor are used in this circuit.
 
 Steps involved:
 1.Put the 555 timer on breadboard.
